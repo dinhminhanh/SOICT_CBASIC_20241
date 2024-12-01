@@ -1,0 +1,4 @@
+Viết chương trình sao chép tập tin (từ
+lab1.txt sang lab1a.txt) tương tự các
+bài tập trước nhưng sử dụng các thao
+tác đọc ghi tập tin theo khối dữ liệu.

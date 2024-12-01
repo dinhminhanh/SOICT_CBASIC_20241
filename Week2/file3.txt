@@ -1,0 +1,13 @@
+one the day
+Mathematical
+of the test
+operators.
+you should
+bring your
+own wrtiting utensils
+val numberOfShirts = 10
+val numberOfPants = 5
+24
+String template expressions
+=> I have 15 items of clothing
+"I have ${numberOfShirts + numberOfPants}

@@ -1,0 +1,11 @@
+ermissions can be granted during installation or runtime, 
+depending on protection level. 
+Each permission has a protection level: normal, signature, or 
+dangerous.
+For permissions granted during runtime, prompt users to 
+explicitly grant or deny access to your app.
+Prompt the user to grant the permission when they try to 
+access functionality that requires a dangerous permission. 
+Explain to the user why the permission is needed. 
+Fall back gracefully if the user denies the permission (app 
+should still function)
